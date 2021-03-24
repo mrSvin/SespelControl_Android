@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sespel</string>
+    <string name="spisok">Подключенные объекты</string>
+    <string name="data">Информация</string>
+    <string name="tab_text_1" translatable="false">Состояние</string>
+    <string name="tab_text_2" translatable="false">На карте</string>
+    <string name="tab_text_3" translatable="false">Дополнительно</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

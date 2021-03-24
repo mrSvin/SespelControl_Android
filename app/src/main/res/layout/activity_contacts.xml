@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/linearLayout">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Офис продаж Чебоксары"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="  Адрес: г. Чебоксары Ленинградская 36  Е-mail: zaosespel@yandex.ru  Тел./факс: +7 (8352) 22-57-22 (многоканальный) "
+                android:textColor="#020202"
+                android:textSize="24sp"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Офис продаж Москва"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Компания «Русбизнесавто»  Адрес: г. Москва Варшавское ш., д. 129/2  Тел./факс: +7 (495) 784-67-61"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Москва"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Адрес: г. Москва, Варшавское ш., д. 129/2  Тел./факс: +7 (495) 784-67-61"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Санкт-Петербург"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Адрес: г. Санкт-Петербург, Пискаревский пр-т., д. 150  Тел./факс: (812) 777-75-00"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Нижний Новгород"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Адрес: г. Нижний Новгород, Московское шоссе, 105  Тел./факс: (831) 272-38-28"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Казань"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Адрес: Респ. Татарстан, Зеленодольский район, с.Осиново ул.Полевая, д.30;  Тел./факс: (843) 221-94-94"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Челябинск"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView33"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Адрес: г. Челябинск, ул. Троицкий тракт д.12  Тел./факс: (351) 259-90-90"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView34"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ростов-на-Дону"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Адрес: г. Ростов-на-Дону, Аксайский район, поселок Красный, ул. Промышленная, д. 1  Тел./факс: (863) 285-01-01 "
+                android:textColor="#020202"
+                android:textSize="24sp"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Екатеринбург"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView39"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Адрес: г. Екатеринбург, с.Новоалексеевское, Ново-Московский тракт, 332 км  Тел./факс: (343) 389-07-48"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView40"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Красноярск"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                android:textStyle="bold|italic"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+            <TextView
+                android:id="@+id/textView41"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Адрес: г. Красноярск, ул. 2-я Брянская, д. 59Ж  Тел./факс: +7 (391) 296-91-79"
+                android:textColor="#020202"
+                android:textSize="24sp"
+                tools:layout_conversion_absoluteHeight="147dp"
+                tools:layout_conversion_absoluteWidth="411dp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="0dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

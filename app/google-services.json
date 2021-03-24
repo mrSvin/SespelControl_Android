@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346678620681",
+    "firebase_url": "https://elated-garden-246819.firebaseio.com",
+    "project_id": "elated-garden-246819",
+    "storage_bucket": "elated-garden-246819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346678620681:android:4512e07bb040058af9bed8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346678620681-43tsbbclmshncmus2tcr8fqne62gsut7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "a57b6e24e5709b6239ec81acb81cb56a09434eea"
+          }
+        },
+        {
+          "client_id": "346678620681-com6o6cfa983gl4m34li23q9ca478sta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfiQR5FIwMY2gdQ-5jJ0PQLFsYqP1aKTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346678620681-com6o6cfa983gl4m34li23q9ca478sta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
